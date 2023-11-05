@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Langston Johnson - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Langston Johnson</h1>
+        <p>Fargo, ND 58102</p>
+        <p>langston.mandela@gmail.com</p>
+        <p>+17013604965</p>
+    </header>
+
+    <section id="objective">
+        <h2>Quality Assurance Engineer with 7 years of experience</h2>
+        <ul>
+            <li>Exceptional communicator with soft skills to boot</li>
+            <li>Lead the Quality Department through the completion of over 100 projects and initiatives</li>
+            <li>Helped resolve 957 support tickets in his first year, resulting in improved customer trust</li>
+        </ul>
+    </section>
+
+    <section id="work-experience">
+        <h2>Work Experience</h2>
+        <article>
+            <h3>Quality Assurance Team Lead</h3>
+            <p>Bushel - Fargo, ND</p>
+            <p>September 2017 to November 2023</p>
+            <ul>
+                <li>Facilitated and conducted the onboarding of numerous people as we codified the definition of the Quality at Bushel. Some of those included, Project Managers, Support Personnel, Integrations Coordinators, Release Managers, and what grew to become the entirety of the Quality Assurance Department.</li>
+                <!-- ...other bullet points... -->
+            </ul>
+        </article>
+        <!-- ...other job listings... -->
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>Bachelor of Zoological Sciences in Zoological Sciences</p>
+        <p>North Dakota State University</p>
+        <p>December 2015</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Scrum</li>
+            <li>Quality Assurance</li>
+            <li>Test Cases</li>
+            <!-- ...other skills... -->
+        </ul>
+    </section>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, section {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333333;
+}
+
+h2 {
+    color: #555555;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Add more CSS as you see fit to style your resume */
