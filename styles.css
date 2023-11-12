@@ -28,7 +28,7 @@ header {
 
 header h1 {
   margin: 0;
-  color: #F44336;
+  color: #36f4a2;
 }
 
 header address, header a {
@@ -44,8 +44,8 @@ section {
 }
 
 section h2 {
-  color: #F44336;
-  border-bottom: 2px solid #F44336;
+  color: #36f4a2;
+  border-bottom: 2px solid #36f4a2;
   padding-bottom: 5px;
 }
 
@@ -61,7 +61,7 @@ ul li {
 
 ul li::before {
   content: '•';
-  color: #F44336;
+  color: #36f4a2;
   display: inline-block;
   width: 1em;
   margin-left: -1em;
