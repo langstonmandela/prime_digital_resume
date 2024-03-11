@@ -10,7 +10,7 @@ body {
   margin: 0;
   padding: 0;
   background: #FAFAFA;
-  color: #212121;
+  color: #333; /* changed to a blue-gray color */
 }
 
 header, section {
@@ -93,4 +93,3 @@ article h3 {
     margin: 0;
   }
 }
-
